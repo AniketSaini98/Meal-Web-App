@@ -1,6 +1,6 @@
 # Meal-Web-App
 
-##Coding Ninjas Front End Skill Test 2
+## Coding Ninjas Front End Skill Test 2
 
 This is a web application that allows users to search for and explore various meal recipes. The app retrieves data from the MealDB API to provide a wide range of meal options and details. Users can search for specific meals, view random meal suggestions, and save their favorite meals.
 
@@ -14,12 +14,11 @@ This is a web application that allows users to search for and explore various me
 
 ## Technologies Used
 
-- HTML5, CSS3: Building the structure and styling of the web app.
-- JavaScript: Handling the API requests and manipulating the data.
-- MealDB API: Retrieving meal data to display on the app.
-- Font Awesome: Adding icons for a visually appealing interface.
+![HTML](assets/html.png)
+![CSS](assets/css.png)
+![Javascript](assets/javascript.png)
 
-## Usage
+## How To Use
 
 1. Clone the repository:
 
@@ -41,4 +40,4 @@ This project is licensed under the MIT License.
     Feel free to modify the content based on your project's specifics and add any additional sections or information as needed.
     
 ## Demo
-   https://aniketsaini98.github.io/Meal-Web-App/
+   [Meal Web App](https://aniketsaini98.github.io/Meal-Web-App/)
